@@ -4,7 +4,7 @@ This script Calculates the Kd of receptor-ligand binding from Mass photometry co
 It is recommended to make measurements in a concentration range close to the expected Kd. 
 
 Run the script by: 
-> Python KdMP.py
+> Python3 KdMP.py
 
 And follow the prompts.
 
